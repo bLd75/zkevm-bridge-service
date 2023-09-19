@@ -154,4 +154,4 @@ require (
 	rsc.io/tmplfunc v0.0.3 // indirect
 )
 
-replace github.com/0xPolygonHermez/zkevm-bridge-service => github.com/bLd75/zkevm-bridge-service v0.1.0
+replace github.com/0xPolygonHermez/zkevm-bridge-service => github.com/bLd75/zkevm-bridge-service
