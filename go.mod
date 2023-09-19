@@ -1,4 +1,4 @@
-module github.com/0xPolygonHermez/zkevm-bridge-service
+module github.com/bLd75/zkevm-bridge-service
 
 go 1.19
 
