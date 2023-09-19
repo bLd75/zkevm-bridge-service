@@ -1,4 +1,4 @@
-module github.com/bLd75/zkevm-bridge-service
+module github.com/0xPolygonHermez/zkevm-bridge-service
 
 go 1.19
 
@@ -153,3 +153,5 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	rsc.io/tmplfunc v0.0.3 // indirect
 )
+
+replace github.com/0xPolygonHermez/zkevm-bridge-service => github.com/bLd75/zkevm-bridge-service latest
